@@ -1,0 +1,14 @@
+{
+  "name": "sudoku-electron",
+  "version": "1.0.0",
+  "description": "makes a sudoku solver",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron --no-sandbox --disable-gpu ."
+  },
+  "keywords": [
+    "sudoku"
+  ],
+  "author": "sherlock",
+  "license": "ISC"
+}
