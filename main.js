@@ -10,4 +10,5 @@ app.on('ready', () => {
     });
     win.loadURL(`file://${__dirname}/index.html`)
     win.removeMenu()
+    // win.webContents.openDevTools()
 })
